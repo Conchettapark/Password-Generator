@@ -6,4 +6,4 @@ Here I created a working code to generate a password of 8-128 characters with a 
 
 
 
-![](passwordimage.png)
+![](Passwordimage2.png)
